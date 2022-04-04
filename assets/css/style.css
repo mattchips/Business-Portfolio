@@ -178,7 +178,8 @@ footer a
   gap: 10px 10px; 
 }
 
-.work-item.work-title {
+.work-item.work-title 
+{
   padding-top: 10px;
   font-size: 35px;
   grid-row: 1 / span 3;
