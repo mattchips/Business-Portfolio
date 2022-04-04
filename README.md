@@ -4,9 +4,9 @@ My attempt at creating my first portfolio
 
 ## Built With
 
-Markup : * HTML
-         * CSS
-         * Javascript
+* HTML
+* CSS
+* Javascript
 
 ## Link To Website
 
