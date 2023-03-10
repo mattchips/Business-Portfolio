@@ -10,4 +10,4 @@ My attempt at creating my first portfolio
 
 ## Link To Website
 
-https://mattchips.github.io/1st-Portfolio/
+https://mattchips.github.io/Business-Portfolio/
